@@ -5,9 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I am a Machine Learning Engineer currently pursuing a Master's degree in Artificial Intelligence at the University of Tabriz. I have a strong background in computer science and experience in back-end development.
-
-I am passionate about using my skills and experience to solve real-world problems and make a positive impact. I am a team player and I am always eager to learn new things.
+I am a Machine Learning Engineer and Data Scientist currently pursuing a Master’s degree in Soft Computing and Artificial Intelligence at the **University of Tabriz**, where I was granted direct admission as a Brilliant Talent. With extensive experience in both academic research and industry applications, I specialize in deep learning, transformer architectures, and computer vision, particularly in medical image analysis. My professional experience includes developing AI-driven solutions for logistics optimization at **Desmer Guvenlik** and building robust backend systems for cryptocurrency platforms. As a recipient of multiple academic honors and with a strong foundation in both theoretical and practical aspects of AI, I am passionate about leveraging cutting-edge technology to solve complex real-world problems and advance the field of artificial intelligence.
 
 ## 🛠 Skills
 ### Machine Learning & Data Science
