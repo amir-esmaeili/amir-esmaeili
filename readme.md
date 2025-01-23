@@ -1,11 +1,13 @@
 # 👋 Hello, I'm Amir Esmaeili
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xagan&label=Profile%20views&color=0e75b6&style=flat" alt="xagan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amir-esmaeili&label=Profile%20views&color=0e75b6&style=flat" alt="amir-esmaeili" /> </p>
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
 
 ## 🚀 About Me
-I am a Machine Learning Engineer and Data Scientist currently pursuing a Master’s degree in Soft Computing and Artificial Intelligence at the **University of Tabriz**, where I was granted direct admission as a Brilliant Talent. With extensive experience in both academic research and industry applications, I specialize in deep learning, transformer architectures, and computer vision, particularly in medical image analysis. My professional experience includes developing AI-driven solutions for logistics optimization at **Desmer Guvenlik** and building robust backend systems for cryptocurrency platforms. As a recipient of multiple academic honors and with a strong foundation in both theoretical and practical aspects of AI, I am passionate about leveraging cutting-edge technology to solve complex real-world problems and advance the field of artificial intelligence.
+I am a Machine Learning Engineer and Data Scientist currently pursuing a Master's degree in **Soft Computing and Artificial Intelligence** at the **[University of Tabriz](https://www.tabrizu.ac.ir/en)**, where I was granted direct admission as a *Brilliant Talent*. With extensive experience in both academic research and industry applications, I specialize in deep learning, transformer architectures, and computer vision, particularly in medical image analysis. My professional experience includes developing AI-driven solutions for logistics optimization at ***[Desmer Guvenlik](https://www.desmer.com.tr)*** and building robust backend systems for cryptocurrency platforms. As a recipient of multiple academic honors and with a strong foundation in both theoretical and practical aspects of AI, I am passionate about leveraging cutting-edge technology to solve complex real-world problems and advance the field of artificial intelligence.
+
+[![CV](https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=adobe-acrobat-reader)](https://raw.githubusercontent.com/amir-esmaeili/amir-esmaeili/refs/heads/main/AmirEsmaeili-CV.pdf)
 
 ## 🛠 Skills
 ### Machine Learning & Data Science
@@ -26,12 +28,12 @@ I am a Machine Learning Engineer and Data Scientist currently pursuing a Master�
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xagan&show_icons=true&theme=tokyonight )
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-esmaeili&show_icons=true&theme=tokyonight )
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xagan&theme=nord&row=2&column=3" alt="xagan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-esmaeili&theme=nord&row=2&column=3" alt="amir-esmaeili" /></a> </p>
 
 ## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xagan&layout=compact&theme=tokyonight )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-esmaeili&layout=compact&theme=tokyonight )
 
 ## 🔭 I'm currently working on
 - Brain Tumor Detection in MRI Images
@@ -58,4 +60,4 @@ I am a Machine Learning Engineer and Data Scientist currently pursuing a Master�
 Python isn’t named after the snake.
 
 ---
-⭐️ From [xagan](https://github.com/xagan)
+⭐️ From [amir-esmaeili](https://github.com/amir-esmaeili)
